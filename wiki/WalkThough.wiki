@@ -10,37 +10,43 @@ Using the plug-in is easy.  The steps that follow take you through formatting so
 ==Step 1==
 In WLW, in the `Insert` panel, click the new `Source code...` entry.  You will then see a screen like this:
 
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/second-screen.png]
+
 ==Step 2==
 This screen shows a preview of your code and allows you to change the settings.  _If you don't see anything in the preview, it's because you had no text in your clipboard.  Simply hit the `Edit...` button and add the code that you want formatted._  
 Select `Syntax Highlighter` as the renderer and then click the `Insert as Text` button.
 Back in Windows Live Writer, hit the `Preview tab` at the bottom.  You should see something like the following screen _(actual output will vary depending on the theme of your blog)_
-[todo: thirdscreen]
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/third-screen.png]
 
 == Step 3==
 In this step, we're going to change the *highlighted text* for an *image* and apply some image effects.  Switch back to the `Edit tab` and single click the code:
-[todo: walkthough3.1]
+
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough3.1.png]
+
 Clicked the `Edit code` button and in the screen that follows, select `Insert as image`.  You'll then see the properties screen change to this:
-[todo: walkthough3.2]
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough3.2.png]
+
 We're now going to add a `Perspective View` effect.  From the `Actions` dropdown-menu, select `Perspective View`.  Change the Angle to something, say around 22 degrees.  Change the Orientation to `TopToBottom`.  You should have something like the following:
-[todo: walkthough3.3]
+
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough3.3-adding-perspective-view.png]
 
 Now, add a `Glow` effect and change the colour to Red:
-[todo: walkthough3.4]
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough3.4-adding-glow.png]
 
 Now, switch back to the `Preview tab`.  You should see something like this:
-[todo: walkthough3.5-preview]
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough3.5-preview.png]
 
 == Step 4==
 We've now got a nice looking code snippet with plenty of effects.  We're now going to modify the code.  Switch back to the `Edit tab` and clicked the `Edit code` button.  Select the code snippet by single-clicking it and click the `Edit code...` button again.
 The window that appears shows the preview and allows you to change the settings.  Click on the `Show line numbers` check-box.  Everything updates in near real-time:
 
-[todo: walkthough4-linenumbers]
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough4.1-linenumbers.png]
+
 
 We're now going to change the code.  Click the `Edit` button.  You should see an editable popup window overlay the preview.  Change the code to this:
 
-[todo: walkthough4-linenumbers]
-Now, add `//` to the line and again see everything update:
+[http://codeformatterpluginforwindowslivewriter.googlecode.com/files/walkthough4.2-changecode.png]
 
-[todo: walkthough4-2change code]
+You should see everything update.
 
 Now just click the `Insert as Image` button again and you're finished.
